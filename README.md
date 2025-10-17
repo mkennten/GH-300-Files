@@ -37,22 +37,8 @@ GH-300-Files/
 
 1. **Star this repository** ⭐ to bookmark it for easy access
 2. Browse the materials relevant to your current learning topic
-3. Use the prompt templates as starting points for your code generation
+3. Work through the modules of the learning paths and complete the exercises (list with all [Exercises](cheatsheets/exercises.md))
 4. Reference the cheat sheets when you need quick help
-
-### Using Templates
-
-To use any template from this repository:
-
-```bash
-# Clone this repository
-git clone https://github.com/mkennten/GH-300-Files.git
-
-# Browse the templates directory
-cd GH-300-Files/templates
-```
-
-Or simply copy the content directly from GitHub's web interface.
 
 ## 📖 Available Resources
 
